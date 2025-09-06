@@ -1,3 +1,22 @@
+:root {
+  --bg-image: url("../images/cover-image-dark.png");
+  --bg-color: #000028;
+  --main-font-family: "IBM Plex Mono", san-serif;
+  --text-color: #f1b2ce;
+  --accent-color: #ff0070;
+  --main-gap: 10px;
+  --hover-border: 1px solid rgba(255, 0, 112, 0.4);
+  --h1-color: #db00ff;
+  --title-color: #000028;
+  --bold-font-weight: 700;
+  --regular-font-weight: 400;
+  --regular-font-size: 18px;
+  --large-line-height: 23.4px;
+  --border-color: #ff0070;
+  --action-border: #f1b2ce;
+  --active-color-border: #ff0070;
+}
+
 /*
   Переменные для вашего проекта
   и их переопределение под различные устройства
