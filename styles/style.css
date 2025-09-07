@@ -159,6 +159,13 @@
   gap: 10px;
 }
 
+.article-list {
+  display: grid;
+  align-self: start;
+  grid-template-rows: auto;
+  gap: 20px;
+}
+
 .card {
   display: grid;
   gap: 10px;
