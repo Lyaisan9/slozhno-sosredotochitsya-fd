@@ -1,7 +1,7 @@
 :root {
   --bg-image: url("../images/cover-image-dark.png");
   --bg-color: #000028;
-  --main-font-family: "IBM Plex Mono", san-serif;
+  --main-font-family: "IBM Plex Mono", monospace;
   --text-color: #f1b2ce;
   --accent-color: #ff0070;
   --main-gap: 10px;
@@ -15,6 +15,7 @@
   --border-color: #ff0070;
   --action-border: #f1b2ce;
   --active-color-border: #ff0070;
+  --secondary-accent-color:#FF0070;
 }
 
 /*
