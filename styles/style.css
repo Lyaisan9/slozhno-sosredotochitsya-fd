@@ -235,7 +235,8 @@ footer {
   align-items: center;
   position: relative;
   margin-block-start: 40px;
-  min-height: 100vh;
+  height: 100vh;
+  min-height: 668px;
   padding-inline: 10px;
   padding-block: 10px;
 }
